@@ -9,7 +9,7 @@ Our project is a map generator that generates random game tilemaps. The program 
 
 ##Screenshot
 Here's an example of a randomly generated map.
-![screenshot example map](examplemap.png)
+![screenshot example map](examplemap-new.png)
 
 ##Concepts Demonstrated
 Adam: I used a lot of recursion in the randomization procedures for the path/water/lava. The randomization procedures also used local state variables that were modified within the procedure during that instance of the procedure call. They were used and modified to keep track of the number of water/lava tiles that could be generated during the recursive procedure. Mutable data was also used a lot in the procedures and for the array. Vectors were constantly being set to different values in order to move around and modify the array. 
