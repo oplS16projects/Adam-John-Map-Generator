@@ -163,4 +163,5 @@ In the end, it started out seeming simple, was very complicated for a while ther
 ```
 
 #How to Download and Run
-The program should run fine in racket as is. Package updates for gui and array should be the only possible conflicts.
+The program should run fine in racket as is. Package updates for gui and array should be the only possible conflicts.<br>
+https://github.com/oplS16projects/Adam-John-Map-Generator/releases/tag/v0.3
